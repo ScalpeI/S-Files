@@ -1,0 +1,9 @@
+C:\My Files\Visual Studio\S-Files\S-Files\bin\Debug\S-Files.exe.config
+C:\My Files\Visual Studio\S-Files\S-Files\bin\Debug\S-Files.exe
+C:\My Files\Visual Studio\S-Files\S-Files\bin\Debug\S-Files.pdb
+C:\My Files\Visual Studio\S-Files\S-Files\obj\Debug\S-Files.csprojResolveAssemblyReference.cache
+C:\My Files\Visual Studio\S-Files\S-Files\obj\Debug\S_Files.Form1.resources
+C:\My Files\Visual Studio\S-Files\S-Files\obj\Debug\S_Files.Properties.Resources.resources
+C:\My Files\Visual Studio\S-Files\S-Files\obj\Debug\S-Files.csproj.GenerateResource.Cache
+C:\My Files\Visual Studio\S-Files\S-Files\obj\Debug\S-Files.exe
+C:\My Files\Visual Studio\S-Files\S-Files\obj\Debug\S-Files.pdb
